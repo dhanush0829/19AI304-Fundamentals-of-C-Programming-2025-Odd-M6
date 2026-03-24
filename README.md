@@ -33,7 +33,11 @@ To develop a C program using the static storage class in a function with a param
 ### Step 8:
   Stop
 # Program:
+<img width="802" height="569" alt="image" src="https://github.com/user-attachments/assets/26767da6-5a3a-4a7d-9b85-a40734eb24fe" />
+
 # Output:
+<img width="800" height="159" alt="image" src="https://github.com/user-attachments/assets/2514f91b-a494-4378-9aa8-710318fca36b" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -79,7 +83,12 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11:
   Stop
 # Program:
+<img width="738" height="579" alt="image" src="https://github.com/user-attachments/assets/907cc8a9-2adb-4566-b681-4107cea8a9ac" />
+<img width="790" height="453" alt="image" src="https://github.com/user-attachments/assets/dad82cf3-3b60-43bb-b721-9d7d7b930d35" />
+
 # Output:
+<img width="846" height="268" alt="image" src="https://github.com/user-attachments/assets/fdf96c91-6ec1-4da4-85bb-e2a8c7d295b6" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -123,7 +132,12 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
+<img width="754" height="587" alt="image" src="https://github.com/user-attachments/assets/f3fe898d-9747-4fc6-813b-f366bab5228d" />
+<img width="775" height="482" alt="image" src="https://github.com/user-attachments/assets/fad35d09-9115-454f-ac70-6518616a4878" />
+
 # Output:
+<img width="832" height="441" alt="image" src="https://github.com/user-attachments/assets/e4633aa4-502e-4430-8429-1d48d14f5cfe" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -166,7 +180,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 9:
   Stop
 # Program:
+<img width="782" height="592" alt="image" src="https://github.com/user-attachments/assets/3a32d625-e178-484c-b75b-f9dea5c3010f" />
+
 # Output:
+<img width="788" height="173" alt="image" src="https://github.com/user-attachments/assets/396ab92b-8317-4ebe-925c-cedc7486c876" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -202,7 +220,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
+<img width="759" height="482" alt="image" src="https://github.com/user-attachments/assets/c6df1f6d-a0aa-4f15-9ad3-2fca426a3942" />
+
 # Output:
+<img width="765" height="188" alt="image" src="https://github.com/user-attachments/assets/c2e70f79-279d-4821-90a8-b3f9a4b58375" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
